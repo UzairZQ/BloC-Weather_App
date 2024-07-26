@@ -1,4 +1,4 @@
-import 'package:bloc_weather_app/weather_screen.dart';
+import 'package:bloc_weather_app/presentation/screens/weather_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

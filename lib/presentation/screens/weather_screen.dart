@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:ui';
-import 'package:bloc_weather_app/additional_info_item.dart';
-import 'package:bloc_weather_app/hourly_forecast_item.dart';
+import 'package:bloc_weather_app/presentation/widgets/additional_info_item.dart';
+import 'package:bloc_weather_app/presentation/widgets/hourly_forecast_item.dart';
 import 'package:bloc_weather_app/secrets.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
