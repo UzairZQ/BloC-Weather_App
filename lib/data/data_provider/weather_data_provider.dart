@@ -1,4 +1,3 @@
-import 'dart:convert';
 
 import 'package:bloc_weather_app/secrets.dart';
 import 'package:http/http.dart' as http;
